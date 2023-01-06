@@ -35,5 +35,5 @@
     <img align="center" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div></br>
 
-### 😱✨🔥✔️🔋💻🖥️✏️❤️💚    
+ 
 
