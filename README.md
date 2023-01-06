@@ -11,7 +11,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurolucasesteves)
   [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5518996861195)
 
-  💼 Ferramentas: <strong> Ferramentas venho me dedicando.</strong>
+  💼 Ferramentas: <strong>A alguns anos venho me dedicando a compreender melhor essas tecnologias.</strong>
 
 [![Alura](https://avatars.githubusercontent.com/u/4975968?s=35&v=40)](https://cursos.alura.com.br/user/maurolucasesteves)
 [![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/543bb36a-e60c-46ca-8705-f7b8c25147dc)
