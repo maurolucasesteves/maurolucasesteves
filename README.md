@@ -5,7 +5,7 @@
 
 ###  Com esse equipamento apreendi formatar e instalar o Windows 95 / 98 era uma formatação por semana. Logo em seguida fiz um curso técnico em processamento de dados onde conheci a linguagem de programação Visual Basic 5 e Delphi. Onde desenvolvi um “sistema” para comércio do meu pai: Após 20 anos trabalhando com suporte de hardware e infraestrutura de redes, voltei ao meu primeiro projeto de vida que era trabalhar com software e busco atualizar meus conhecimentos nas novas tecnologias dos tempos atuais.
 <br>
-  💌 <strong> Clique Aqui me mande uma mensagem para entrar em contato com você:</strong> ⤵️
+  💌 <strong> Clique aqui, e me mande uma mensagem! </strong> ⤵️
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurolucasesteves@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurolucasesteves)
