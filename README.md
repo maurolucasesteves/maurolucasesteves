@@ -7,7 +7,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanazip/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alananascimentodesouza@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurolucasesteves@gmail.com)
 [![Alura](https://avatars.githubusercontent.com/u/4975968?s=200&v=4)](https://cursos.alura.com.br/user/maurolucasesteves)
 [![Google](https://img.shields.io/badge/GOOGLE-CLOUD-blue)](https://www.cloudskillsboost.google/public_profiles/543bb36a-e60c-46ca-8705-f7b8c25147dc)
 
@@ -20,7 +20,7 @@
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Estudante HTML5">
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    <img align="center" src="https://img.shields.io/badge/SQL%20SERVER-MICROSOFT-blue" alt="SQL SERVER">
+    <img align="center" src="https://img.shields.io/badge/SQL%20SERVER-MICROSOFT-blue" alt="SQLSERVER">
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
     <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Estudante CSS3">
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Estudante JavaScript">
