@@ -3,7 +3,7 @@
 ###  Passados alguns anos meus pais fizeram a compra de um computador para nossa casa, o nosso “Corujinha”, um Compaq Presario 4410 com um Processador: Intel Pentium 233 MHz Memória: 32 MB, Disco Rígido: 1.2 GB, Drive Óptico: CD-ROM – IDE Imagem: 
 [![Compaq](https://img.shields.io/badge/Compaq-PC-brightgreen)](http://museuvirtual.unipar.br/archives/compaq-presario-4410)
 
-###  Com esse equipamento apreendi formatar e instalar o Windows 95 / 98 era uma formatação por semana. Logo em seguida fiz um curso técnico em processamento de dados onde conheci a linguagem de programação Visual Basic 5 e Delphi. Onde desenvolvi um “sistema” para comércio do meu pai: Após 20 anos trabalhando com suporte de hardware e infraestrutura de redes, voltei ao meu primeiro projeto de vida que era trabalhar com software e busco atualizar meus conhecimentos nas novas tecnologias dos tempos atuais.
+###  Com esse equipamento apreendi formatar e instalar o Windows 95 / 98 era uma formatação por semana. Logo em seguida fiz um curso técnico em processamento de dados onde conheci a linguagem de programação Visual Basic 5 e Delphi. Onde desenvolvi um “sistema” para comércio do meu pai: Após 20 anos trabalhando com suporte de hardware e infraestrutura de redes, voltei ao meu primeiro projeto de vida que era trabalhar com software e busco atualizar meus conhecimentos nas tecnologias dos tempos atuais.
 <br>
   💌 <strong> Clique aqui, e me mande uma mensagem! </strong> ⤵️
   
