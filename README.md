@@ -13,7 +13,7 @@
 
   💼 Ferramentas: <strong>A alguns anos venho me dedicando a compreender melhor essas tecnologias.</strong>
 
-[![Alura](https://avatars.githubusercontent.com/u/4975968?s=35&v=40)](https://cursos.alura.com.br/user/maurolucasesteves)
+[![Alura](https://avatars.githubusercontent.com/u/4975968?s=35&v=40)](https://cursos.alura.com.br/user/maurolucasesteves/fullCertificate/71309edb173ab35a05c8c9cf29ca7c51)
 [![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/543bb36a-e60c-46ca-8705-f7b8c25147dc)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/users/maurolucasesteves/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/96a545a9-074a-46ee-9c87-0027c00abb40/linked_in_profile)
