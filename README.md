@@ -22,7 +22,7 @@ Sou um profissional apaixonado por tecnologia com **mais de 20 anos de experiên
 
 **🔹 Formação Técnica**
 - **Curso Técnico em Processamento de Dados**
-- Primeiras linguagens: **Visual Basic 5** e **Delphi**
+- Primeiras linguagens: **Visual Basic 5**, **Delphi**, **Python** e **JavaScript (JS)**
 - Desenvolvimento do meu primeiro sistema comercial para o negócio da família
 
 **🔹 Carreira Profissional**
